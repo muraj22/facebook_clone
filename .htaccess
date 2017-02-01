@@ -1,0 +1,89 @@
+RewriteEngine on
+options +FollowSymLinks
+
+#RewriteCond %{HTTP_HOST} !^$
+#RewriteCond %{HTTP_HOST} !^www\. [NC]
+#RewriteCond %{HTTPS}s ^on(s)|
+#RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteRule    ^([A-Za-z-0-9-_.]+)/pics/([A-Za-z-0-9-_.]*.*)?$ users/$1/pics/$2
+#levanta de users/pics
+
+RewriteRule    ^([A-Za-z-0-9-_.]+)/vids/([A-Za-z-0-9-_.]*.*)?$ users/$1/vids/$2
+#levanta de users/vids
+
+RewriteCond    %{REQUEST_URI} ^.*\.(html|png|jpg|gif|jpeg|css|js)
+RewriteRule ^([^/]+)(/(.*))?$ - [L]
+
+RewriteRule ^lists/ master/index.php
+RewriteRule ^lists/(.*)$ $1
+
+RewriteRule ^home\.(php) master/index.php
+#levanta de master/
+
+RewriteRule ^index\.(php) master/index.php
+#levanta de master/
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule messages master/message.php
+
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php)|pokes|/notes|/phpmyadmin|/apptism|/apptism_old|google_app|/video|/settings|/messages|/events|/bank|/wordpress|/predictive_wordpress|/audiencehack|/audiencehack/widget_creator
+RewriteRule   ^([A-Za-z-0-9-_.]+)?$ master/$2
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond    %{REQUEST_URI} !pokes|/notes|/phpmyadmin|/apptism|/apptism_old|google_app|/video|/settings|/messages|/events|/bank|/wordpress|/predictive_wordpress|/audiencehack|/audiencehack/widget_creator
+RewriteRule    ^([A-Za-z-0-9-_.]+)/([A-Za-z-0-9-_.]+.php)?$    master/$2
+#levanta de master/
+
+
+RewriteCond    %{REQUEST_URI} !settingsd
+RewriteRule ^settings settingsd/settings.php
+
+RewriteCond    %{REQUEST_URI} !pokesd
+RewriteRule ^pokes(.*)$ pokesd/$1
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule   ^messages/ messages.php
+RewriteRule   ^events/ events.php
+
+RewriteRule    ^notes/me/ notes/notes.php 
+RewriteRule    ^notes/drafts/ notes/notes_drafts.php
+RewriteRule    ^notes/tagged/ notes/notes_tagged.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !photos_albums|photos_stream
+RewriteRule ^([A-Za-z-0-9-_.]+)/photos $1/view_photos.php
+RewriteRule ^([A-Za-z-0-9-_.]+)/photos_albums $1/view_photos.php?sk=photos_albums
+RewriteRule ^([A-Za-z-0-9-_.]+)/photos_stream $1/view_photos.php?sk=photos_stream
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !pins_boards|pins_stream
+RewriteCond %{QUERY_STRING} ^board=(.*)$
+RewriteRule ^/?([A-Za-z-0-9-_.]+)/pins$ /$1/view_photos.php?pin=2&album=%1
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !pins_boards|pins_stream
+RewriteRule ^([A-Za-z-0-9-_.]+)/pins $1/view_photos.php?pin=2
+RewriteRule ^([A-Za-z-0-9-_.]+)/pins_boards $1/view_photos.php?sk=photos_albums&pin=2
+RewriteRule ^([A-Za-z-0-9-_.]+)/pins_stream $1/view_photos.php?sk=photos_stream&pin=2
+RewriteRule ^([A-Za-z-0-9-_.]+)/repins_stream $1/view_photos.php?sk=photos_stream&pin=2&repin=2
+RewriteRule ^([A-Za-z-0-9-_.]+)/repins_boards $1/view_photos.php?sk=photos_albums&pin=2&repin=2
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !/ajax
+RewriteRule ^([A-Za-z-0-9-_.]+)/friends $1/view_friends.php
+
+RewriteCond    %{REQUEST_URI} !listsd
+RewriteRule ^bookmarks/lists(.*)$ bookmarks/listsd/$1
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^/v(.*)$ v/video_embed.php?sbid=$1
+
+RewriteRule ^recover/code$ recover/coded/index.php$1
+RewriteRule ^ajax/recover/password$ ajax/recover/passwordd/index.php$1
+RewriteRule ^login/identify$ login/indetifyd/index.php$1
+
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php)|notes/me/|notes/drafts/|notes/tagged/
+RewriteRule    ^notes/ notes/
+
+RewriteRule ^r.php$ gvrrgvrr45.php$1

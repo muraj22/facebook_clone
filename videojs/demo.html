@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Video.js | HTML5 Video Player</title>
+  <link href="video-js.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://localhost/subsbook/jquery.min.js"></script>
+  <script src="video.js"></script>
+
+  <script>
+    _V_.options.flash.swf = "video-js.swf";
+  </script>
+
+
+</head>
+<body>
+
+
+<script type="text/javascript">
+function togglehd(w){
+if(w=="t"){
+var cvid=$("#vid_source").data("source-name");
+cvid=cvid+"_hq.mp4";
+
+$("#vid1").remove();
+}
+else{
+	
+}
+}
+</script>
+
+<div id="vid_wrapper">
+  <video id="vid1" class="video-js vjs-default-skin" controls preload="none" width="900" height="564"
+      poster="http://video-js.zencoder.com/oceans-clip.png"
+      data-setup="{}">
+    <source src="http://localhost/subsbook/ffmpeg/prueba.mp4" type='video/mp4' />
+  </video>
+  </div>
+  
+  <div style="display:none;">
+  <div id="vid_source" data-source-name="prueba">
+  </div>
+
+</body>
+</html>

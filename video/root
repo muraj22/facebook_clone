@@ -1,0 +1,2148 @@
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 04:45:01 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r284j17P020233
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 04:45:01 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r284j1CQ020232;
+	Fri, 8 Mar 2013 04:45:01 GMT
+Date: Fri, 8 Mar 2013 04:45:01 GMT
+Message-Id: <201303080445.r284j1CQ020232@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> apache /usr/bin/php /var/www/html/video/video_parser.php?xd22xd22
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+/bin/sh: apache: command not found
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 04:50:01 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r284o12V020377
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 04:50:01 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r284o1AV020376;
+	Fri, 8 Mar 2013 04:50:01 GMT
+Date: Fri, 8 Mar 2013 04:50:01 GMT
+Message-Id: <201303080450.r284o1AV020376@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> apache /usr/bin/php /var/www/html/video/video_parser.php?xd22xd22
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+/bin/sh: apache: command not found
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 04:55:01 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r284t1bI021607
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 04:55:01 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r284t1Zx021606;
+	Fri, 8 Mar 2013 04:55:01 GMT
+Date: Fri, 8 Mar 2013 04:55:01 GMT
+Message-Id: <201303080455.r284t1Zx021606@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> root /usr/bin/php /var/www/html/video/video_parser.php?xd22xd22
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+/bin/sh: root: command not found
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:00:01 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r28501hr021740
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:00:01 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r28501ku021739;
+	Fri, 8 Mar 2013 05:00:01 GMT
+Date: Fri, 8 Mar 2013 05:00:01 GMT
+Message-Id: <201303080500.r28501ku021739@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> root /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+/bin/sh: root: command not found
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:06:02 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r28562mQ021935
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:06:02 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r285617a021923;
+	Fri, 8 Mar 2013 05:06:01 GMT
+Date: Fri, 8 Mar 2013 05:06:01 GMT
+Message-Id: <201303080506.r285617a021923@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 51
+PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/start.php on line 74
+PHP Notice:  Undefined offset: 1 in /var/www/html/start.php on line 82
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 105
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 111
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 112
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 113
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 114
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 115
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 116
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 118
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 119
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 120
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 122
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 123
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 124
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 125
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 126
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 127
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 128
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 129
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 130
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 131
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 132
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 133
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 134
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 135
+PHP Notice:  Undefined index: login_cookie in /var/www/html/functions/set_local_timezone.php on line 7
+PHP Notice:  Undefined variable: octimezone in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 20
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/sb_user.php on line 25
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: fullname in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: id in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: profilepict in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 60
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 64
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 65
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 69
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 88
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 92
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 4
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 6
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 7
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 9
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 12
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 13
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 15
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 24
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 35
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 41
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 46
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 48
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 49
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 51
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 59
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+10000010/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot1.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1ce32660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot2.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x39a4660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot3.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1313a660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot4.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x6498660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot5.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x6a5b660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot6.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0xe1e5660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot7.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x12f93660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot8.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x849660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/p5nql499jm0yn4n3jmbaogp3o.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot9.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1134d660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+PHP Warning:  getimagesize(/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/include.php on line 2
+PHP Warning:  getimagesize(/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/common_no_suffix.php on line 7
+PHP Warning:  getimagesize(/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/common_no_suffix.php on line 17
+PHP Warning:  getimagesize(/users/10000010/pics/p5nql499jm0yn4n3jmbaogp3oshot1.png): failed to open stream: No such file or directory in /var/www/html/classes/resizer.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'The file you're trying to open is not supported' in /var/www/html/classes/resizer.php:23
+Stack trace:
+#0 /var/www/html/add_photos/common_no_suffix.php(24): resizer->prepare('/users/10000010...', '/users/10000010...')
+#1 /var/www/html/add_photos/include.php(10): include('/var/www/html/a...')
+#2 /var/www/html/video/video_parser.php(184): include('/var/www/html/a...')
+#3 {main}
+  thrown in /var/www/html/classes/resizer.php on line 23
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:07:01 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r28571fd021962
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:07:01 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r28571Im021961;
+	Fri, 8 Mar 2013 05:07:01 GMT
+Date: Fri, 8 Mar 2013 05:07:01 GMT
+Message-Id: <201303080507.r28571Im021961@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 51
+PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/start.php on line 74
+PHP Notice:  Undefined offset: 1 in /var/www/html/start.php on line 82
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 105
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 111
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 112
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 113
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 114
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 115
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 116
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 118
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 119
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 120
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 122
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 123
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 124
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 125
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 126
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 127
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 128
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 129
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 130
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 131
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 132
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 133
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 134
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 135
+PHP Notice:  Undefined index: login_cookie in /var/www/html/functions/set_local_timezone.php on line 7
+PHP Notice:  Undefined variable: octimezone in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 20
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/sb_user.php on line 25
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: fullname in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: id in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: profilepict in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 60
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 64
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 65
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 69
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 88
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 92
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 4
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 6
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 7
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 9
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 12
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 13
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 15
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 24
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 35
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 41
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 46
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 48
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 49
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 51
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 59
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:08:01 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r2858110022053
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:08:01 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r28581gQ022052;
+	Fri, 8 Mar 2013 05:08:01 GMT
+Date: Fri, 8 Mar 2013 05:08:01 GMT
+Message-Id: <201303080508.r28581gQ022052@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 51
+PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/start.php on line 74
+PHP Notice:  Undefined offset: 1 in /var/www/html/start.php on line 82
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 105
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 111
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 112
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 113
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 114
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 115
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 116
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 118
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 119
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 120
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 122
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 123
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 124
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 125
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 126
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 127
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 128
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 129
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 130
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 131
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 132
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 133
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 134
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 135
+PHP Notice:  Undefined index: login_cookie in /var/www/html/functions/set_local_timezone.php on line 7
+PHP Notice:  Undefined variable: octimezone in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 20
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/sb_user.php on line 25
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: fullname in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: id in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: profilepict in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 60
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 64
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 65
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 69
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 88
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 92
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 4
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 6
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 7
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 9
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 12
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 13
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 15
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 24
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 35
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 41
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 46
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 48
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 49
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 51
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 59
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:09:01 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r28591iQ022087
+	for <apache@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:09:01 GMT
+Received: (from apache@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r28591rI022085;
+	Fri, 8 Mar 2013 05:09:01 GMT
+Date: Fri, 8 Mar 2013 05:09:01 GMT
+Message-Id: <201303080509.r28591rI022085@ip-50-62-77-198.ip.secureserver.net>
+X-Authentication-Warning: ip-50-62-77-198.ip.secureserver.net: apache set sender to root using -f
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: apache@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <apache@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/var/www>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=apache>
+X-Cron-Env: <USER=apache>
+
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 51
+PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/start.php on line 74
+PHP Notice:  Undefined offset: 1 in /var/www/html/start.php on line 82
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 105
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 111
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 112
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 113
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 114
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 115
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 116
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 118
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 119
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 120
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 122
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 123
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 124
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 125
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 126
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 127
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 128
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 129
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 130
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 131
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 132
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 133
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 134
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 135
+PHP Notice:  Undefined index: login_cookie in /var/www/html/functions/set_local_timezone.php on line 7
+PHP Notice:  Undefined variable: octimezone in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 20
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/sb_user.php on line 25
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: fullname in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: id in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: profilepict in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 60
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 64
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 65
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 69
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 88
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 92
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 4
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 6
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 7
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 9
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 12
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 13
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 15
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 24
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 35
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 41
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 46
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 48
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 49
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 51
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 59
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:09:01 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r28591pJ022088
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:09:01 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r285916F022086;
+	Fri, 8 Mar 2013 05:09:01 GMT
+Date: Fri, 8 Mar 2013 05:09:01 GMT
+Message-Id: <201303080509.r285916F022086@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 51
+PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/start.php on line 74
+PHP Notice:  Undefined offset: 1 in /var/www/html/start.php on line 82
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 105
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 111
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 112
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 113
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 114
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 115
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 116
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 118
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 119
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 120
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 122
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 123
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 124
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 125
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 126
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 127
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 128
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 129
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 130
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 131
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 132
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 133
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 134
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 135
+PHP Notice:  Undefined index: login_cookie in /var/www/html/functions/set_local_timezone.php on line 7
+PHP Notice:  Undefined variable: octimezone in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 20
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/sb_user.php on line 25
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: fullname in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: id in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: profilepict in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 60
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 64
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 65
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 69
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 88
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 92
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 4
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 6
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 7
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 9
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 12
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 13
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 15
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 24
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 35
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 41
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 46
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 48
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 49
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 51
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 59
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:10:02 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r285A2VP022127
+	for <apache@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:10:02 GMT
+Received: (from apache@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r285A2xE022124;
+	Fri, 8 Mar 2013 05:10:02 GMT
+Date: Fri, 8 Mar 2013 05:10:02 GMT
+Message-Id: <201303080510.r285A2xE022124@ip-50-62-77-198.ip.secureserver.net>
+X-Authentication-Warning: ip-50-62-77-198.ip.secureserver.net: apache set sender to root using -f
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: apache@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <apache@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/var/www>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=apache>
+X-Cron-Env: <USER=apache>
+
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 51
+PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/start.php on line 74
+PHP Notice:  Undefined offset: 1 in /var/www/html/start.php on line 82
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 105
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 111
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 112
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 113
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 114
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 115
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 116
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 118
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 119
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 120
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 122
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 123
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 124
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 125
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 126
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 127
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 128
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 129
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 130
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 131
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 132
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 133
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 134
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 135
+PHP Notice:  Undefined index: login_cookie in /var/www/html/functions/set_local_timezone.php on line 7
+PHP Notice:  Undefined variable: octimezone in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 20
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/sb_user.php on line 25
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: fullname in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: id in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: profilepict in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 60
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 64
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 65
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 69
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 88
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 92
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 4
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 6
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 7
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 9
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 12
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 13
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 15
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 24
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 35
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 41
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 46
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 48
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 49
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 51
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 59
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:10:02 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r285A2Km022126
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:10:02 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r285A232022123;
+	Fri, 8 Mar 2013 05:10:02 GMT
+Date: Fri, 8 Mar 2013 05:10:02 GMT
+Message-Id: <201303080510.r285A232022123@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 51
+PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/start.php on line 74
+PHP Notice:  Undefined offset: 1 in /var/www/html/start.php on line 82
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 105
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 111
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 112
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 113
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 114
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 115
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 116
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 118
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 119
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 120
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 122
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 123
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 124
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 125
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 126
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 127
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 128
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 129
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 130
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 131
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 132
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 133
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 134
+PHP Notice:  Undefined variable: uid in /var/www/html/start.php on line 135
+PHP Notice:  Undefined index: login_cookie in /var/www/html/functions/set_local_timezone.php on line 7
+PHP Notice:  Undefined variable: octimezone in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 15
+PHP Notice:  Undefined variable: cdaylight in /var/www/html/functions/set_local_timezone.php on line 20
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/sb_user.php on line 25
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: fullname in /var/www/html/functions/sb_user.php on line 20
+PHP Notice:  Undefined index: username in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: id in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined index: profilepict in /var/www/html/functions/sb_user.php on line 21
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 60
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 64
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 65
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 69
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 88
+PHP Notice:  Undefined variable: uid in /var/www/html/functions/r_friends.php on line 92
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 4
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 6
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 7
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 9
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 12
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 13
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 15
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 24
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 33
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 35
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 41
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 46
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 48
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 49
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 51
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 59
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 62
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+PHP Notice:  Undefined variable: uid in /var/www/html/privacy/query_filter.php on line 66
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:16:02 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r285G2PW022337
+	for <apache@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:16:02 GMT
+Received: (from apache@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r285G11A022326;
+	Fri, 8 Mar 2013 05:16:01 GMT
+Date: Fri, 8 Mar 2013 05:16:01 GMT
+Message-Id: <201303080516.r285G11A022326@ip-50-62-77-198.ip.secureserver.net>
+X-Authentication-Warning: ip-50-62-77-198.ip.secureserver.net: apache set sender to root using -f
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: apache@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <apache@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/var/www>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=apache>
+X-Cron-Env: <USER=apache>
+
+10000010/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot1.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x17694660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot2.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x17691660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot3.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x4bf7660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot4.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x49a5660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot5.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x19e0e660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot6.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x16e45660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot7.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1900c660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot8.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x350c660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/lo0gdpgaa1jp9ymm51blczxn4.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot9.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x104a8660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+PHP Notice:  Undefined variable: root in /var/www/html/video/video_parser.php on line 153
+PHP Notice:  Undefined variable: root in /var/www/html/video/video_parser.php on line 155
+PHP Notice:  Undefined variable: root in /var/www/html/video/video_parser.php on line 163
+PHP Warning:  getimagesize(/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/include.php on line 2
+PHP Warning:  getimagesize(/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/common_no_suffix.php on line 7
+PHP Warning:  getimagesize(/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/common_no_suffix.php on line 17
+PHP Warning:  getimagesize(/users/10000010/pics/lo0gdpgaa1jp9ymm51blczxn4shot1.png): failed to open stream: No such file or directory in /var/www/html/classes/resizer.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'The file you're trying to open is not supported' in /var/www/html/classes/resizer.php:23
+Stack trace:
+#0 /var/www/html/add_photos/common_no_suffix.php(24): resizer->prepare('/users/10000010...', '/users/10000010...')
+#1 /var/www/html/add_photos/include.php(10): include('/var/www/html/a...')
+#2 /var/www/html/video/video_parser.php(181): include('/var/www/html/a...')
+#3 {main}
+  thrown in /var/www/html/classes/resizer.php on line 23
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:20:02 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r285K2o9022486
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:20:02 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r285K1wZ022475;
+	Fri, 8 Mar 2013 05:20:01 GMT
+Date: Fri, 8 Mar 2013 05:20:01 GMT
+Message-Id: <201303080520.r285K1wZ022475@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+10000010/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot1.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x11ed7660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot2.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1d0cb660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot3.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1a60f660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot4.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x16ad5660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot5.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1d38c660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot6.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1d0be660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot7.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x7864660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot8.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x7447660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/s4hiz5vohsaoet4259gzpxe1j.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot9.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0xdcce660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+PHP Notice:  Undefined variable: root in /var/www/html/video/video_parser.php on line 153
+PHP Notice:  Undefined variable: root in /var/www/html/video/video_parser.php on line 155
+PHP Notice:  Undefined variable: root in /var/www/html/video/video_parser.php on line 163
+PHP Warning:  getimagesize(/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/include.php on line 2
+PHP Warning:  getimagesize(/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/common_no_suffix.php on line 7
+PHP Warning:  getimagesize(/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/common_no_suffix.php on line 17
+PHP Warning:  getimagesize(/users/10000010/pics/s4hiz5vohsaoet4259gzpxe1jshot1.png): failed to open stream: No such file or directory in /var/www/html/classes/resizer.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'The file you're trying to open is not supported' in /var/www/html/classes/resizer.php:23
+Stack trace:
+#0 /var/www/html/add_photos/common_no_suffix.php(24): resizer->prepare('/users/10000010...', '/users/10000010...')
+#1 /var/www/html/add_photos/include.php(10): include('/var/www/html/a...')
+#2 /var/www/html/video/video_parser.php(181): include('/var/www/html/a...')
+#3 {main}
+  thrown in /var/www/html/classes/resizer.php on line 23
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:26:02 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r285Q2Jx023732
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:26:02 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r285Q12b023721;
+	Fri, 8 Mar 2013 05:26:01 GMT
+Date: Fri, 8 Mar 2013 05:26:01 GMT
+Message-Id: <201303080526.r285Q12b023721@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+10000010/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot1.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x17519660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot2.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0xac3b660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot3.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0xe999660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot4.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x7e46660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot5.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x14a60660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot6.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1bcfe660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot7.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0xd51a660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot8.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0xb78c660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/o6bklbjutqs1n2khdwz8e2jfa.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot9.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0xdd2d660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+PHP Warning:  getimagesize(/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/include.php on line 2
+PHP Warning:  getimagesize(/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/common_no_suffix.php on line 7
+PHP Warning:  getimagesize(/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot1.png): failed to open stream: No such file or directory in /var/www/html/add_photos/common_no_suffix.php on line 17
+PHP Warning:  getimagesize(/users/10000010/pics/o6bklbjutqs1n2khdwz8e2jfashot1.png): failed to open stream: No such file or directory in /var/www/html/classes/resizer.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'The file you're trying to open is not supported' in /var/www/html/classes/resizer.php:23
+Stack trace:
+#0 /var/www/html/add_photos/common_no_suffix.php(24): resizer->prepare('/users/10000010...', '/users/10000010...')
+#1 /var/www/html/add_photos/include.php(10): include('/var/www/html/a...')
+#2 /var/www/html/video/video_parser.php(183): include('/var/www/html/a...')
+#3 {main}
+  thrown in /var/www/html/classes/resizer.php on line 23
+
+From root@ip-50-62-77-198.ip.secureserver.net  Fri Mar  8 05:31:14 2013
+Return-Path: <root@ip-50-62-77-198.ip.secureserver.net>
+Received: from ip-50-62-77-198.ip.secureserver.net (localhost [127.0.0.1])
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4) with ESMTP id r285VEAO023903
+	for <root@ip-50-62-77-198.ip.secureserver.net>; Fri, 8 Mar 2013 05:31:14 GMT
+Received: (from root@localhost)
+	by ip-50-62-77-198.ip.secureserver.net (8.14.4/8.14.4/Submit) id r285V14v023886;
+	Fri, 8 Mar 2013 05:31:01 GMT
+Date: Fri, 8 Mar 2013 05:31:01 GMT
+Message-Id: <201303080531.r285V14v023886@ip-50-62-77-198.ip.secureserver.net>
+From: root@ip-50-62-77-198.ip.secureserver.net (Cron Daemon)
+To: root@ip-50-62-77-198.ip.secureserver.net
+Subject: Cron <root@ip-50-62-77-198> /usr/bin/php /var/www/html/video/video_parser.php
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Auto-Submitted: auto-generated
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+
+10000010/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot1.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x183b8660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot2.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x11de2660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot3.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x6af660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot4.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x15619660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot5.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x15c30660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot6.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x15866660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot7.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1528b660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot8.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x1c0c6660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+FFmpeg version 0.6.5, Copyright (c) 2000-2010 the FFmpeg developers
+  built on Jan 29 2012 17:52:15 with gcc 4.4.5 20110214 (Red Hat 4.4.5-6)
+  configuration: --prefix=/usr --libdir=/usr/lib64 --shlibdir=/usr/lib64 --mandir=/usr/share/man --incdir=/usr/include --disable-avisynth --extra-cflags='-O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -mtune=generic -fPIC' --enable-avfilter --enable-avfilter-lavf --enable-libdc1394 --enable-libdirac --enable-libfaac --enable-libfaad --enable-libfaadbin --enable-libgsm --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libx264 --enable-gpl --enable-nonfree --enable-postproc --enable-pthreads --enable-shared --enable-swscale --enable-vdpau --enable-version3 --enable-x11grab
+  libavutil     50.15. 1 / 50.15. 1
+  libavcodec    52.72. 2 / 52.72. 2
+  libavformat   52.64. 2 / 52.64. 2
+  libavdevice   52. 2. 0 / 52. 2. 0
+  libavfilter    1.19. 0 /  1.19. 0
+  libswscale     0.11. 0 /  0.11. 0
+  libpostproc   51. 2. 0 / 51. 2. 0
+
+Seems stream 1 codec frame rate differs from container frame rate: 48000.00 (48000/1) -> 24.00 (24/1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/www/html/users/10000010/vids/xf1n7uous1lzxruogbh7k588e.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isomavc1mp42
+  Duration: 00:00:27.72, start: 0.000000, bitrate: 606 kb/s
+    Stream #0.0(und): Audio: aac, 44100 Hz, stereo, s16, 103 kb/s
+    Stream #0.1(und): Video: h264, yuv420p, 466x360 [PAR 1:1 DAR 233:180], 500 kb/s, 24 fps, 24 tbr, 24k tbn, 48k tbc
+Output #0, image2, to '/var/www/html/users/10000010/pics/xf1n7uous1lzxruogbh7k588eshot9.png':
+  Metadata:
+    encoder         : Lavf52.64.2
+    Stream #0.0(und): Video: png, rgb24, 466x360 [PAR 1:1 DAR 233:180], q=2-31, 200 kb/s, 90k tbn, 1 tbc
+Stream mapping:
+  Stream #0.1 -> #0.0
+Press [q] to stop encoding
+[image2 @ 0x10f77660]Could not get frame filename from pattern
+av_interleaved_write_frame(): Input/output error
+mp4:ftermino
+

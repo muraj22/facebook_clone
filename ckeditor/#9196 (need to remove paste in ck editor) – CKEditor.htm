@@ -1,0 +1,641 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0035)http://dev.ckeditor.com/ticket/9196 -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>
+      #9196 (need to remove paste in ck editor)
+     – CKEditor
+    </title>
+    
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+        <link rel="search" href="http://dev.ckeditor.com/search">
+        <link rel="prev" href="http://dev.ckeditor.com/ticket/9195" title="Ticket #9195">
+        <link rel="last" href="http://dev.ckeditor.com/ticket/9203" title="Ticket #9203">
+        <link rel="help" href="http://dev.ckeditor.com/wiki/TracGuide">
+        <link rel="alternate" href="http://dev.ckeditor.com/ticket/9196?format=csv" type="text/csv" class="csv" title="Comma-delimited Text"><link rel="alternate" href="http://dev.ckeditor.com/ticket/9196?format=tab" type="text/tab-separated-values" class="tab" title="Tab-delimited Text"><link rel="alternate" href="http://dev.ckeditor.com/ticket/9196?format=rss" type="application/rss+xml" class="rss" title="RSS Feed">
+        <link rel="next" href="http://dev.ckeditor.com/ticket/9197" title="Ticket #9197">
+        <link rel="start" href="http://dev.ckeditor.com/wiki">
+        <link rel="stylesheet" href="./#9196 (need to remove paste in ck editor) – CKEditor_files/trac.css" type="text/css"><link rel="stylesheet" href="./#9196 (need to remove paste in ck editor) – CKEditor_files/ticket.css" type="text/css">
+        <link rel="first" href="http://dev.ckeditor.com/ticket/1" title="Ticket #1">
+        <link rel="shortcut icon" href="http://a.cksource.com/c/1/inc/gfx/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="http://a.cksource.com/c/1/inc/gfx/favicon.ico" type="image/x-icon">
+      <link type="application/opensearchdescription+xml" rel="search" href="http://dev.ckeditor.com/search/opensearch" title="Search CKEditor">
+    <script type="text/javascript">
+      var auto_preview_timeout=2.0;
+      var form_token="afd10f47e5c0cae580ef607f";
+    </script>
+    <script type="text/javascript" src="./#9196 (need to remove paste in ck editor) – CKEditor_files/jquery.js"></script><script type="text/javascript" src="./#9196 (need to remove paste in ck editor) – CKEditor_files/babel.js"></script><script type="text/javascript" src="./#9196 (need to remove paste in ck editor) – CKEditor_files/trac.js"></script><script type="text/javascript" src="./#9196 (need to remove paste in ck editor) – CKEditor_files/search.js"></script><script type="text/javascript" src="./#9196 (need to remove paste in ck editor) – CKEditor_files/folding.js"></script><script type="text/javascript" src="./#9196 (need to remove paste in ck editor) – CKEditor_files/wikitoolbar.js"></script><script type="text/javascript" src="./#9196 (need to remove paste in ck editor) – CKEditor_files/resizer.js"></script><script type="text/javascript" src="./#9196 (need to remove paste in ck editor) – CKEditor_files/auto_preview.js"></script>
+    <!--[if lt IE 7]>
+    <script type="text/javascript" src="/chrome/common/js/ie_pre7_hacks.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $("div.description").find("h1,h2,h3,h4,h5,h6").addAnchor(_("Link to this section"));
+        $(".foldable").enableFolding(false, true);
+        var args = {realm: "ticket", id: 9196, escape_newlines: 0}
+        $("#comment").autoPreview("/wiki_render", args, function(textarea, text, rendered) {
+            $("#ticketchange div.comment").html(rendered);
+            if (rendered)
+              $("#ticketchange").show();
+            else if ($("#ticketchange ul.changes").length == 0)
+              $("#ticketchange").hide();
+        });
+        $("#trac-comment-editor textarea").autoPreview("/wiki_render", args,
+                                                       function(textarea, text, rendered) {
+          var comment = $("#trac-comment-editor").next("div.comment");
+          comment.html(rendered);
+          if (rendered)
+            comment.show();
+          else
+            comment.hide();
+        });
+        $("#modify").parent().toggleClass("collapsed");
+        $(".trac-topnav a").click(function() { $("#modify").parent().removeClass("collapsed"); });
+        /* only enable control elements for the currently selected action */
+        var actions = $("#action input[name='action']");
+        function updateActionFields() {
+          actions.each(function () {
+            $(this).siblings().find("*[id]").enable($(this).checked());
+            $(this).siblings().filter("*[id]").enable($(this).checked());
+          });
+        }
+        actions.click(updateActionFields);
+        updateActionFields();
+      });
+    </script>
+    <link rel="stylesheet" type="text/css" href="./#9196 (need to remove paste in ck editor) – CKEditor_files/overrides.css">
+  </head>
+  <body>
+    <div id="siteheader">
+    </div>
+    <div id="banner">
+      <div id="header">
+        <a id="logo" href="http://dev.ckeditor.com/"><img src="./#9196 (need to remove paste in ck editor) – CKEditor_files/logo-ckeditor-dev.png" alt="CKEditor Development Community Web Site" height="59" width="214"></a>
+      </div>
+      <form id="search" action="http://dev.ckeditor.com/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="">
+          <input type="submit" value="Search">
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first"><a href="http://dev.ckeditor.com/login">Login</a></li><li><a href="http://dev.ckeditor.com/wiki/TracGuide">Help/Guide</a></li><li><a href="http://dev.ckeditor.com/prefs">Preferences</a></li><li><a href="http://dev.ckeditor.com/register">Register</a></li><li class="last"><a href="http://dev.ckeditor.com/about">About Trac</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first"><a href="http://dev.ckeditor.com/wiki">Wiki</a></li><li><a href="http://dev.ckeditor.com/timeline">Timeline</a></li><li><a href="http://dev.ckeditor.com/roadmap">Roadmap</a></li><li><a href="http://dev.ckeditor.com/browser">Browse Source</a></li><li class="active"><a href="http://dev.ckeditor.com/report">View Tickets</a></li><li class="last"><a href="http://dev.ckeditor.com/search">Search</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+          <ul>
+              <li class="first"><span>← <a class="prev" href="http://dev.ckeditor.com/ticket/9195" title="Ticket #9195">Previous Ticket</a></span></li><li class="last"><span><a class="next" href="http://dev.ckeditor.com/ticket/9197" title="Ticket #9197">Next Ticket</a> →</span></li>
+          </ul>
+        <hr>
+      </div>
+    <div id="content" class="ticket">
+      <h1 id="trac-ticket-title">
+          <a href="./#9196 (need to remove paste in ck editor) – CKEditor_files/#9196 (need to remove paste in ck editor) – CKEditor.htm">Ticket #9196</a>
+          <span class="status">(closed Task: invalid)</span>
+      </h1>
+      <div id="ticket">
+  <div class="date">
+    <p>Opened <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-09T09%3A43%3A16%2B02%3A00&precision=second" title="2012-08-09T09:43:16+02:00 in Timeline">9 days</a> ago</p>
+    <p>Last modified <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-17T15%3A52%3A22%2B02%3A00&precision=second" title="2012-08-17T15:52:22+02:00 in Timeline">9 hours</a> ago</p>
+  </div>
+  <h2 class="summary searchable">need to remove paste in ck editor</h2>
+  <table class="properties">
+    <tbody><tr>
+      <th id="h_reporter">Reported by:</th>
+      <td headers="h_reporter" class="searchable">
+        <a href="http://dev.ckeditor.com/query?status=!closed&reporter=sri224455">sri224455</a>
+      </td>
+      <th id="h_owner">Owned by:</th>
+      <td headers="h_owner">
+      </td>
+    </tr>
+    <tr>
+        <th id="h_priority">
+          Priority:
+        </th>
+        <td headers="h_priority">
+              <a href="http://dev.ckeditor.com/query?status=!closed&priority=Normal">Normal</a>
+        </td>
+        <th id="h_milestone">
+          Milestone:
+        </th>
+        <td headers="h_milestone">
+              <a class="missing milestone"></a>
+        </td>
+    </tr><tr>
+        <th id="h_component">
+          Component:
+        </th>
+        <td headers="h_component">
+              <a href="http://dev.ckeditor.com/query?status=!closed&component=General">General</a>
+        </td>
+        <th id="h_version">
+          Version:
+        </th>
+        <td headers="h_version">
+              <a href="http://dev.ckeditor.com/query?status=!closed&version=3.6.4">3.6.4</a>
+        </td>
+    </tr><tr>
+        <th id="h_keywords">
+          Keywords:
+        </th>
+        <td headers="h_keywords" class="searchable">
+        </td>
+        <th id="h_cc">
+          Cc:
+        </th>
+        <td headers="h_cc" class="searchable">
+        </td>
+    </tr>
+  </tbody></table>
+  <div class="description">
+    <h3 id="comment:description">
+      Description
+    <a class="anchor" href="http://dev.ckeditor.com/ticket/9196#comment:description" title="Link to this section"> ¶</a></h3>
+    <div class="searchable">
+      <p>
+i need to remove paste option completely, please let me know where i need to edit the js code. 
+</p>
+
+    </div>
+  </div>
+</div>
+          
+    <div id="attachments">
+        <h2 class="foldable"><a id="no1" href="http://dev.ckeditor.com/ticket/9196#no1">Attachments</a></h2>
+        <div>
+          <dl class="attachments">
+              <dt>
+    <a href="http://dev.ckeditor.com/attachment/ticket/9196/ckeditor_paste.doc" title="View attachment">ckeditor_paste.doc</a><a href="http://dev.ckeditor.com/raw-attachment/ticket/9196/ckeditor_paste.doc" class="trac-rawlink" title="Download">​</a>
+       (<span title="119296 bytes">116.5 KB</span>) -
+      added by <em>sri224455</em> <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-11T08%3A12%3A22%2B02%3A00&precision=second" title="2012-08-11T08:12:22+02:00 in Timeline">7 days</a> ago.
+  </dt>
+              <dt>
+    <a href="http://dev.ckeditor.com/attachment/ticket/9196/ckeditor.js" title="View attachment">ckeditor.js</a><a href="http://dev.ckeditor.com/raw-attachment/ticket/9196/ckeditor.js" class="trac-rawlink" title="Download">​</a>
+       (<span title="375732 bytes">366.9 KB</span>) -
+      added by <em>sri224455</em> <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-13T10%3A13%3A29%2B02%3A00&precision=second" title="2012-08-13T10:13:29+02:00 in Timeline">5 days</a> ago.
+  </dt>
+              <dt>
+    <a href="http://dev.ckeditor.com/attachment/ticket/9196/config.js" title="View attachment">config.js</a><a href="http://dev.ckeditor.com/raw-attachment/ticket/9196/config.js" class="trac-rawlink" title="Download">​</a>
+       (<span title="590 bytes">590 bytes</span>) -
+      added by <em>sri224455</em> <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-13T10%3A13%3A45%2B02%3A00&precision=second" title="2012-08-13T10:13:45+02:00 in Timeline">5 days</a> ago.
+  </dt>
+          </dl>
+          
+        </div>
+    </div>
+
+        <div>
+          <h2 class="foldable"><a id="no2" href="http://dev.ckeditor.com/ticket/9196#no2">Change History</a></h2>
+          <div id="changelog">
+              <div class="change" id="trac-change-1">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:1" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:1">comment:1</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-09T13%3A27%3A06%2B02%3A00&precision=second" title="2012-08-09T13:27:06+02:00 in Timeline">8 days</a> ago by j.swiderski
+                </h3>
+                
+  <ul class="changes">
+    <li>
+      <strong>Status</strong>
+        changed from <em>new</em> to <em>closed</em>
+    </li><li>
+      <strong>Resolution</strong>
+        set to <em>invalid</em>
+    </li>
+  </ul>
+    <div class="comment searchable">
+      
+      <p>
+<span class="searchword0">Context</span> <span class="searchword1">menu</span> can be removed with following command placed in config.js <tt>config.removePlugins='<span class="searchword0">context</span><span class="searchword1">menu</span>';</tt> or in CKEditor configuration objecy directly on HTML page
+<tt> var editor = CKEDITOR.replace( 'editor1',{removePlugins: 'contextmenu'}); </tt>
+</p>
+<p>
+Unfortunately because of a bug in 3.6.4 it is not possible to remove CKEditor <span class="searchword0">context</span><span class="searchword1">menu</span>.
+I have provided a quick fix in <a class="review ticket" href="http://dev.ckeditor.com/ticket/9195" title="Bug: It is not possible to remove contextmenu. (review)">#9195</a>
+</p>
+<p>
+You can either download trunk for CKEditor, apply this patch and build new release or if you are not familiar with it you can make changes directly in ckeditor.js file.
+</p>
+<p>
+Just open ckeditor.js file,
+Find <tt>j.tabletools={requires:['table','dialog','<span class="searchword0">context</span><span class="searchword1">menu</span>']</tt>
+and change it to <tt> j.tabletools={requires:['table','dialog'] // just remove ,'<span class="searchword0">context</span><span class="searchword1">menu</span>' </tt>
+</p>
+<p>
+Please note that <tt>config.removePlugins='<span class="searchword0">context</span><span class="searchword1">menu</span>';</tt> removes whole <span class="searchword0">context</span> <span class="searchword1">menu</span>.
+If you only want to remove paste option you would have to change context menu plugin.
+</p>
+
+    </div>
+
+                <div class="trac-lastedit ">
+                  Last edited <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-09T14%3A00%3A50%2B02%3A00&precision=second" title="2012-08-09T14:00:50+02:00 in Timeline">8 days</a> ago
+                      by j.swiderski
+                    (<a href="http://dev.ckeditor.com/ticket/9196?cversion=0&cnum_hist=1#comment:1">previous</a>)
+                    (<a href="http://dev.ckeditor.com/ticket/9196?action=comment-diff&cnum=1&version=1">diff</a>)
+                </div>
+              </div>
+              <div class="change" id="trac-change-2">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:2" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:2">comment:2</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-09T13%3A53%3A36%2B02%3A00&precision=second" title="2012-08-09T13:53:36+02:00 in Timeline">8 days</a> ago by sri224455
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+i tried that way it is not working. i disabled the key stokes. i had checked that still paste option is working through the right click. 
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-3">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:3" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:3">comment:3</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-09T13%3A56%3A10%2B02%3A00&precision=second" title="2012-08-09T13:56:10+02:00 in Timeline">8 days</a> ago by sri224455
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+more over i downloaded the latest version.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-4">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:4" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:4">comment:4</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-09T14%3A05%3A16%2B02%3A00&precision=second" title="2012-08-09T14:05:16+02:00 in Timeline">8 days</a> ago by j.swiderski
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+This is not in latest CKEditor 3.6.4. It was fixed on trunk.
+</p>
+<p>
+Like I said this can be fixed in SVN version which can be used to build new version or can be fixed in ckeditor.js directly. Then <tt>config.removePlugins='<span class="searchword0">context</span><span class="searchword1">menu</span>';</tt> will work.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change">
+                <h3 class="change">
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-11T08%3A12%3A22%2B02%3A00&precision=second" title="2012-08-11T08:12:22+02:00 in Timeline">7 days</a> ago by sri224455
+                </h3>
+                
+  <ul class="changes">
+    <li>
+      <strong>Attachment</strong>
+        <a href="http://dev.ckeditor.com/attachment/ticket/9196/ckeditor_paste.doc"><em>ckeditor_paste.doc</em></a><a href="http://dev.ckeditor.com/raw-attachment/ticket/9196/ckeditor_paste.doc" title="Download" class="trac-rawlink">​</a>
+          added
+    </li>
+  </ul>
+    <div class="comment searchable">
+      
+      
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-5">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:5" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:5">comment:5</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-11T08%3A15%3A10%2B02%3A00&precision=second" title="2012-08-11T08:15:10+02:00 in Timeline">7 days</a> ago by sri224455
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+i had place remove pulgin in ckeditor.js, added ckeditor.shift+f10 in config.js to key disabled function. but still getting the paste option which i had attached, you can check. 
+is there any way to disable mouse right click option. 
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-6">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:6" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:6">comment:6</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-11T12%3A45%3A06%2B02%3A00&precision=second" title="2012-08-11T12:45:06+02:00 in Timeline">7 days</a> ago by sri224455
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+<span class="searchword0">context</span> <span class="searchword1">menu</span> has been disabled but when i right clik then i am getting the paste screen shot is shared.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-7">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:7" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:7">comment:7</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-11T18%3A07%3A18%2B02%3A00&precision=second" title="2012-08-11T18:07:18+02:00 in Timeline">6 days</a> ago by j.swiderski
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <blockquote class="citation">
+<p>
+i had place remove pulgin in ckeditor.js,
+</p>
+</blockquote>
+<p>
+What? 
+</p>
+<p>
+First of all:<br>
+</p>
+<ul><li>Please download CKEditor from  - <a class="ext-link" href="http://nightly.ckeditor.com/"><span class="icon">​</span>http://nightly.ckeditor.com/</a>. The current nightly version is 7995<br>
+</li><li>or download SVN version of CKEditor and build your own release (You should update to rev. <a class="missing changeset" title="No changeset 7995 in the repository">[7995]</a>).
+</li><li>or download CKEditor 3.6.4 and open ckeditor.js file, Find <tt>j.tabletools={requires:['table','dialog','<span class="searchword0">context</span><span class="searchword1">menu</span>']</tt> and change it to <tt> j.tabletools={requires:['table','dialog'] </tt>, just remove <tt>,'<span class="searchword0">context</span><span class="searchword1">menu</span>'</tt> part.
+</li></ul><p>
+Now as a second step you can use removePlugins option:
+</p>
+<ul><li>You place <tt>config.removePlugins='<span class="searchword0">context</span><span class="searchword1">menu</span>';</tt> in config.js 
+</li><li>but if you are using any configration objects on page where CKEditor is installed then you should place the remove plugin option there E.g. 
+</li></ul><pre class="wiki">var html = '';
+var config = {removePlugins : '<span class="searchword0">context</span><span class="searchword1">menu</span>'};
+var editor = CKEDITOR.appendTo( 'editor', config, html );
+</pre><p>
+I don't think it can be better described than that.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-8">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:8" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:8">comment:8</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-12T05%3A50%3A04%2B02%3A00&precision=second" title="2012-08-12T05:50:04+02:00 in Timeline">6 days</a> ago by sri224455
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+thanks for the update i disabled the paste option in the <span class="searchword0">context</span> <span class="searchword1">menu</span> itself. when i right click there will be no paste. instead of paste it shows copy option.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-9">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:9" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:9">comment:9</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-13T08%3A43%3A40%2B02%3A00&precision=second" title="2012-08-13T08:43:40+02:00 in Timeline">5 days</a> ago by j.swiderski
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+Option <tt>config.removePlugins='<span class="searchword0">context</span><span class="searchword1">menu</span>';</tt> removes whole <span class="searchword0">context</span> <span class="searchword1">menu</span>. If you had done it right you wouldn't see any CKEditor menu but browsers context menu.
+</p>
+<p>
+Perhaps you haven't refreshed browser cache.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-10">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:10" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:10">comment:10</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-13T09%3A12%3A24%2B02%3A00&precision=second" title="2012-08-13T09:12:24+02:00 in Timeline">5 days</a> ago by sri224455
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+yes, i observed that it removes only conteext <span class="searchword1">menu</span> not the browsers <span class="searchword0">context</span> menu and i kept the automatically delete cookies on exit of browser.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-11">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:11" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:11">comment:11</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-13T09%3A52%3A41%2B02%3A00&precision=second" title="2012-08-13T09:52:41+02:00 in Timeline">5 days</a> ago by j.swiderski
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <blockquote class="citation">
+<blockquote class="citation">
+<p>
+yes, i observed that it removes only conteext <span class="searchword1">menu</span> not the browsers <span class="searchword0">context</span> menu
+</p>
+</blockquote>
+</blockquote>
+<p>
+Just to let you know this is how it works. Browser <span class="searchword1">menu</span> is one thing and CKEditor <span class="searchword1">menu</span> is another. The above option is designed for CKEditor only and it does not interfere in browser behaviour. If you want to remove <span class="searchword0">context</span> menu in particular browser as well you will have to google for solution.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change">
+                <h3 class="change">
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-13T10%3A13%3A29%2B02%3A00&precision=second" title="2012-08-13T10:13:29+02:00 in Timeline">5 days</a> ago by sri224455
+                </h3>
+                
+  <ul class="changes">
+    <li>
+      <strong>Attachment</strong>
+        <a href="http://dev.ckeditor.com/attachment/ticket/9196/ckeditor.js"><em>ckeditor.js</em></a><a href="http://dev.ckeditor.com/raw-attachment/ticket/9196/ckeditor.js" title="Download" class="trac-rawlink">​</a>
+          added
+    </li>
+  </ul>
+    <div class="comment searchable">
+      
+      
+    </div>
+
+              </div>
+              <div class="change">
+                <h3 class="change">
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-13T10%3A13%3A45%2B02%3A00&precision=second" title="2012-08-13T10:13:45+02:00 in Timeline">5 days</a> ago by sri224455
+                </h3>
+                
+  <ul class="changes">
+    <li>
+      <strong>Attachment</strong>
+        <a href="http://dev.ckeditor.com/attachment/ticket/9196/config.js"><em>config.js</em></a><a href="http://dev.ckeditor.com/raw-attachment/ticket/9196/config.js" title="Download" class="trac-rawlink">​</a>
+          added
+    </li>
+  </ul>
+    <div class="comment searchable">
+      
+      
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-12">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:12" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:12">comment:12</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-13T10%3A16%3A22%2B02%3A00&precision=second" title="2012-08-13T10:16:22+02:00 in Timeline">5 days</a> ago by sri224455
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+attached two files, you will find how i disable paste option in <span class="searchword0">context</span> <span class="searchword1">menu</span>. context menu is working when i right click it shows only copy instead of paste.
+Thanks for the support to overcome my problem.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-13">
+                <h3 class="change">
+                  <span class="threading">
+                    <span id="comment:13" class="cnum">
+      <a href="http://dev.ckeditor.com/ticket/9196#comment:13">comment:13</a>
+    </span>
+                  </span>
+                  Changed <a class="timeline" href="http://dev.ckeditor.com/timeline?from=2012-08-17T15%3A52%3A22%2B02%3A00&precision=second" title="2012-08-17T15:52:22+02:00 in Timeline">9 hours</a> ago by j.swiderski
+                </h3>
+                
+    <div class="comment searchable">
+      
+      <p>
+This is the last comment for this ticket.
+</p>
+<p>
+Your config.js is good but you haven’t removed code from ckeditor.js. It still contains <tt>j.tabletools={requires:['table','dialog','<span class="searchword0">context</span><span class="searchword1">menu</span>']</tt> while it should have <tt>j.tabletools={requires:['table','dialog']</tt>.
+</p>
+
+    </div>
+
+              </div>
+          </div>
+        </div>
+      <div id="help"><strong>Note:</strong> See
+        <a href="http://dev.ckeditor.com/wiki/TracTickets">TracTickets</a> for help on using
+        tickets.</div>
+    </div>
+    <div id="altlinks">
+      <h3>Download in other formats:</h3>
+      <ul>
+        <li class="first">
+          <a rel="nofollow" href="http://dev.ckeditor.com/ticket/9196?format=csv" class="csv">Comma-delimited Text</a>
+        </li><li>
+          <a rel="nofollow" href="http://dev.ckeditor.com/ticket/9196?format=tab" class="tab">Tab-delimited Text</a>
+        </li><li class="last">
+          <a rel="nofollow" href="http://dev.ckeditor.com/ticket/9196?format=rss" class="rss">RSS Feed</a>
+        </li>
+      </ul>
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr>
+      <a id="tracpowered" href="http://trac.edgewall.org/"><img src="./#9196 (need to remove paste in ck editor) – CKEditor_files/trac_logo_mini.png" height="30" width="107" alt="Trac Powered"></a>
+      <p class="left">Powered by <a href="http://dev.ckeditor.com/about"><strong>Trac 0.12.3</strong></a><br>
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right"></p>
+    </div>
+    <div id="newfooter">
+		© 2003 – 2012 CKSource – Frederico Knabben. All rights reserved.
+		| <a href="http://dev.ckeditor.com/ticket/9196#">Terms of use</a>
+		| <a href="http://dev.ckeditor.com/ticket/9196#">Privacy policy</a>
+    </div>
+  
+<!-- Google Analytics Widget Code -->
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="./#9196 (need to remove paste in ck editor) – CKEditor_files/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+  try {
+    jQuery(document).ready( function() {
+      var pageTracker = _gat._getTracker("UA-271067-10");
+      jQuery('a').each( function() {
+        var url;
+        if ( this.href.match("http:\/\/dev.ckeditor.com") ) {
+          if ( this.href.match(/\.(zip|tar|tar.gz|tar.bzip|egg)$/) ) {
+            url = this.pathname + this.search;
+          };
+        } else {
+          var port = '';
+          if ( this.port != '') port = ':'+this.port;
+          url = '/external/' + this.hostname + port + this.pathname + this.search;
+        };
+        if ( url ) {
+          if ( ! url.match('^\/attachment\/') ) {
+            jQuery(this).click( function() {
+              pageTracker._trackPageview(url);
+            });
+          };
+        };
+      });
+    pageTracker._trackPageview();
+    });
+  } catch(err) {}
+</script>
+<!-- Google Analytics Widget Code Ended -->
+
+</body></html>

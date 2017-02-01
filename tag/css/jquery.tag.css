@@ -1,0 +1,163 @@
+.jTagArea{
+}
+
+.jTagOverlay{
+	width:100%;
+	height:100%;
+	position:relative;
+	z-index:2;
+}
+
+.jTagDrag{
+	width:100px;
+	height:100px;
+	cursor: move;
+}
+
+.jTagInput{
+
+position:absolute;left:-50px;
+width:200px;
+border:1px solid #000000;
+}
+
+.jTagSave{
+	width:100%;
+	background: none;
+}
+
+.jTagInput input{
+	border:1px solid #666666;
+	width:196px;
+position:relative;left:2px;top:2px;
+	padding:0;
+	margin:0;
+
+font-family:'lucida grande',tahoma,verdana,arial,sans-serif;
+font-size:11px;
+padding:4px;
+}
+
+.typeany{
+color:#666666;
+font-family:'lucida grande',tahoma,verdana,arial,sans-serif;
+font-size:11px;	
+	}
+
+.jTagSaveClose{
+	cursor:pointer;
+	float: right;
+	width:20px;
+	height:20px;
+	background: url('../images/cancel.png') no-repeat;
+	background-position: center center;
+	display:none;
+}
+
+.jTagDeleteTag{
+	display: none;
+	cursor: pointer;
+	position: absolute;
+	bottom: -32px;
+	right: -20px;
+	z-index:5;
+	width: 20px;
+	height: 20px;
+	background: url('../images/cancel.png') no-repeat;
+}
+
+.jpointer{
+background-image:url("http://localhost/subsbook/images/ALnh3ly4npU2.png");left:45px;bottom:-12px;z-index:5;
+background:url("http://localhost/subsbook/images/ALnh3ly4npU2.png") no-repeat scroll center top transparent;height:7px;position:absolute;width:11px;line-height:22px;left:50px;
+}
+
+.jTagSaveBtn{
+	cursor:pointer;
+	float: right;
+	width: 20px;
+	height: 20px;
+	background: url('../images/save.png') no-repeat;
+	background-position: center center;
+	display:none;
+}
+
+.jTagPngOverlay{
+	background: url(../images/trans.png);
+}
+
+
+.jTagTag{
+	opacity: 0;
+	border:2px solid black;
+	position:absolute;
+cursor:pointer;
+}
+
+.jTagTag a:link{
+font-size:11px;font-weight:normal;color:#333333;text-decoration:none;
+}
+.jTagTag a:visited{
+font-size:11px;font-weight:normal;color:#333333;text-decoration:none;
+}
+.jTagTag a:active{
+font-size:11px;font-weight:normal;color:#333333;text-decoration:none;
+}
+.jTagTag a:hover{
+font-size:11px;font-weight:normal;color:#333333;text-decoration:none;
+}
+
+.jTagTag span{
+	width:80%;
+	background:#ffffff;
+	color:#333333;
+	height:20px;
+	position: absolute;
+	bottom: -32px;
+	right:-1px;
+	text-align: center;
+	font-size: 10px;
+	line-height:20px;
+border:1px solid #333333;
+}
+
+.jTagTagv{
+	opacity: 0;
+	border:2px solid black;
+	position:absolute;
+cursor:inherit;
+z-index:206;
+}
+
+.jTagTagv span{
+	position: absolute;
+	bottom: -35px;
+	right:100%;
+	text-align: center;
+}
+
+.jTagLabels{
+	padding:0px;
+	display:none;
+}
+
+.jTagLabels label{
+	font-weight:bold;
+	margin-left:5px;
+	padding-top:3px;
+	cursor:pointer;
+	float:left;
+	color:#ffffff;
+}
+
+.jTagLabels a:link{
+font-size:11px;font-weight:normal;color:#ffffff;text-decoration:none;
+}
+.jTagLabels a:visited{
+font-size:11px;font-weight:normal;color:#ffffff;text-decoration:none;
+}
+.jTagLabels a:active{
+font-size:11px;font-weight:normal;color:#ffffff;text-decoration:none;
+}
+.jTagLabels a:hover{
+font-size:11px;font-weight:normal;color:#ffffff;text-decoration:none;
+}

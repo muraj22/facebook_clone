@@ -1,0 +1,46 @@
+RewriteEngine on
+options +FollowSymLinks
+
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php|html|png|jpg|gif)|notes|messages|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule ^lists/ master/index.php
+
+RewriteRule ^lists/(.*)$ $1
+
+RewriteCond    %{REQUEST_URI} !notes|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule ^index\.(php) master/index.php
+#levanta de master/
+
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php|html|png|jpg|gif)|notes|messages|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule   ^([A-Za-z-0-9-_.]+)?$ master/$2
+
+
+RewriteCond    %{REQUEST_URI} !notes|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule    ^([A-Za-z-0-9-_.]+)/([A-Za-z-0-9-_.]+.php)?$    master/$2
+#levanta de master/
+
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php|html|png|jpg|gif)|notes|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule   ^messages/ messages.php
+
+
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php|html|png|jpg|gif)|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule    ^notes/me/   notes/notes.php
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php|html|png|jpg|gif)|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule    ^notes/drafts/   notes/notes_drafts.php
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php|html|png|jpg|gif)|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|Svetlozar.NET
+RewriteRule    ^notes/tagged/   notes/notes_tagged.php
+
+
+
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php|html|png|jpg|gif)|notes|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule ^pokes(.*)$ pokesd/$1
+
+
+RewriteCond    %{REQUEST_URI} !.*\.(css|js|php|html|png|jpg|gif)|notes/me/|notes/drafts/|notes/tagged|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET
+RewriteRule    ^notes/   notes/
+
+
+RewriteCond    %{REQUEST_URI} !notes|delete|oauth_yahoo-master|oauth|google-api-php-client|yahoo-api-php-client|classes|right_column_modules|functions|pokes|lists|geoip_city|autocomplete|chrono|ajax|editprofile|tag|Svetlozar.NET 			
+RewriteRule    ^([A-Za-z-0-9-_.]+)/pics/([A-Za-z-0-9-_.]*.*)?$    users/$1/pics/$2
+#levanta de users/pics
+
+

@@ -1,0 +1,9 @@
+<?php  
+include("start.php");
+?>
+<?php
+include("chatupd.php");
+?>
+<?php
+include("end.php");
+?>

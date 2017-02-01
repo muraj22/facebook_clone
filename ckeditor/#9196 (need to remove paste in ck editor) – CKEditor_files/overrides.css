@@ -1,0 +1,168 @@
+﻿body
+{
+	color: #383c3d;
+}
+
+:link, :visited,
+h1 :link, h1 :visited,
+dt em,
+.milestone .info h2 em,
+#content.search #results dt a
+{
+	color: #05b2d2;
+}
+
+#mainnav
+{
+	border-color: #ececec;
+	background: #fbfbfb;
+}
+
+#mainnav :link, #mainnav :visited, #mainnav :link:hover, #mainnav :visited:hover
+{
+	border-left-color: #dcdcdc;
+	border-right: 0;
+}
+
+#altlinks
+{
+	padding-top: 2em;
+}
+
+.buttons
+{
+	clear: both;
+}
+
+blockquote.citation
+{
+	border-color: #44bbbb;
+}
+
+#content.ticket #ticket,
+#prefs,
+.wiki-toc
+{
+	background-color: #fbfbfb;
+}
+
+#ticket table.properties,
+#ticket .description h3
+{
+	border-color: #bbb;
+}
+
+#ticket table.properties th,
+#ticket .description h3
+{
+	color: #666;
+}
+
+#ticket .date
+{
+	color: #999;
+}
+
+#changelog div.change
+{
+	padding-top: 0.1em;
+	padding-bottom: 0.3em;
+}
+
+div.change:hover
+{
+	background-color: #fbfbfb;
+}
+
+.tickets tr.color2-even
+{
+    background-color: #FCFCFC;
+    border-color: #DDDDDD;
+    color: #0C8389;
+}
+
+.tickets tr.color2-odd
+{
+    background-color: #F7F7F7;
+    border-color: #DDDDDD;
+    color: #0C8389;
+}
+
+#footer
+{
+	display: none;
+}
+
+#newfooter
+{
+	border-top: 1px solid;
+	clear: both;
+	color: #bbbbbb;
+	padding: 1em 0;
+}
+
+.home-intro-box
+{
+	border: 1px solid #ececec;
+	overflow: hidden;
+	padding: 10px;
+	background: #fbfbfb;
+	margin-left: -18px;
+	margin-top: 10px;
+	padding-left: 18px;
+}
+
+.home-intro-box h1
+{
+	margin-left: 0;
+}
+
+.home-oss-box
+{
+	border: 1px solid #ececec;
+	float: right;
+	padding: 10px 15px;
+	padding-right: 100px;
+	margin-left: 10px;
+	width: 200px;
+	background-color: White;
+	background-image: url(http://a.cksource.com/c/1/inc/img/opensource-110x95.gif);
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+
+.home-oss-box p
+{
+	margin: 3px 0;
+	padding: 0;
+}
+
+.home-contents-block
+{
+	float: left;
+	width: 25%;
+	margin-right: 5%;
+}
+
+.home-contents-block h3
+{
+	margin-bottom: 5px;
+}
+
+.home-contents-block h3 :link, .home-contents-block h3 :visited
+{
+	color: #04B1D1;
+}
+
+.home-contents-block p
+{
+	margin: 0;
+}
+
+#content.ticket {
+    margin-left: 0;
+}
+
+body {
+    background-color: #FFF;
+}

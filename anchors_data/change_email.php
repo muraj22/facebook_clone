@@ -1,0 +1,3 @@
+<?php
+$sechov='href="#" data-d_okay="Change Email" data-d_width="447" data-d_title="Change Email Address" data-uidv="'.$uid.'" data-d_l_fjax="/ajax/confirm/change_email.php" data-d_cancel="Cancel" data-d_cancel_function="close_dialog_f" data-d_okay_function="custom" data-d_okay_function_custom="fjax" data-d_fjax="/ajax/confirm/change_email_post.php" data-d_leave_loading="show_loading" data-a_form="._change_email" data-a_custom_f="email_loading_response" data-a_starts="set_email_loading"';
+?>

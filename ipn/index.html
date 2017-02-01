@@ -1,0 +1,31 @@
+<?php
+if(isset($_SESSION['membership_status'])){
+//si esta pending redirect y en index mostrar pending
+//si esta cancelled dejar crear uno nuevo
+//si esta expired dejar crear uno nuevo
+}
+//en membership state: mostrar la $_SESSION. solo se mostrara la $_SESSION si no se trata de un outstanding balance..
+//si esta pending mostrar no mostrar boton de upgrade to member
+//si esta cancelled si mostrar boton de upgrade to member
+//si esta expired si mostrar boton de upgrade to member - pienso que todos dejan comprar normalmente, hacen un nuevo ppProfile para el user :)
+//mostrar esto en vez de On Trial (0), Trial Expired (4), The Drive Buy Member (1), Outstanding Balance (2)
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+<script type="text/javascript" src="https://www.paypalobjects.com/js/external/dg.js"></script>
+</head>
+<body>
+<div id="memberdiv" align="center">
+<a href="http://108.165.22.98/~thedrive/the.drive.buy/ipn/become_member.php" id="becomemember">Become a member
+</div>
+<script type="text/javascript">
+var dg=new PAYPAL.apps.DGFlow({ trigger: "becomemember" });
+function newmember(expiry_time){
+
+}
+</script>
+</body>
+</html>

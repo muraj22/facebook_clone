@@ -1,0 +1,23 @@
+<script type="text/javascript" src="jquery.min.js"></script>
+<div class="pepe">
+<textarea>caca</textarea>
+</div>
+<script type="text/javascript">
+var mthis="pepe";
+var l=$("."+mthis).find("textarea").length;
+alert(l);
+
+$.fn.reverse=[].reverse;
+$.fn.removev=function(){
+$(this).addClass("hidden_sb");
+$(this).remove();	
+}
+</script>
+
+<div style="width:30px;height:30px;" id="caca">aca</div>
+
+<script type="text/javascript">
+$("#caca").bind("click",function(){
+$(this).removev();	
+});
+</script>
